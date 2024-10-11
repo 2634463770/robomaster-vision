@@ -1,0 +1,3 @@
+/home/arno/全向轮/zhbit_vision-v1.1/Zhbit_Vision_Aim/build/CMakeFiles/rebuild_cache.dir
+/home/arno/全向轮/zhbit_vision-v1.1/Zhbit_Vision_Aim/build/CMakeFiles/edit_cache.dir
+/home/arno/全向轮/zhbit_vision-v1.1/Zhbit_Vision_Aim/build/CMakeFiles/aim_auto.dir
